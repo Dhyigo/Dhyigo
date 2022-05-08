@@ -1,4 +1,4 @@
-### Olá! me chamo Diego, sou estudante de programação e um curioso nato!
+### Olá! me chamo Diego, Seja bem vindo(a)! :)
 
 
 - 🌱 Estudando python
