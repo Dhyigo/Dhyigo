@@ -1,7 +1,7 @@
 ### Olá! me chamo Diego, Seja bem vindo(a)! :)
 
 
-- 🌱 Estudando python, html5, as css e javascript.
+- 🌱 Estudando Python, HTML5, as CSS e JavaScript.
 
 <div align="center">
   <a href="https://github.com/Dhyigo">
