@@ -1,4 +1,4 @@
-### Olá! me chamo Diego, Seja bem vindo(a)! :)
+### Seja bem vindo(a)! :)
 
 
 - 🌱 Estudando Python, HTML5, as CSS e JavaScript.
