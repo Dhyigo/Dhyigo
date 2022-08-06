@@ -3,13 +3,13 @@
 
 - 🌱 Estudando Python, HTML5, as CSS e JavaScript.
 
-<div align="center">
+<div style="width: 100vw;">
   <a href="https://github.com/Dhyigo">
-    <img height="180" width="45%" src="https://github-readme-stats.vercel.app/api?username=Dhyigo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=true">
-    <img height="180" width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyigo&layout=compact&langs_count=7&theme=dark&title_color=red">
+    <img style="width: 50vw; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=Dhyigo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=true">
+     <img  style="width: 50vw; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyigo&layout=compact&langs_count=7&theme=dark&title_color=red">
   </a>
 </div>
-  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python-LOGO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML-LOGO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
