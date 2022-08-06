@@ -5,8 +5,8 @@
 
 <div style="display: flex; justify-content: space-between; ">
   <a href="https://github.com/Dhyigo">
-    <img style="display: inline-block; width: 48%;" src="https://github-readme-stats.vercel.app/api?username=Dhyigo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=true">
-    <img style="display: inline-block; width: 47%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyigo&layout=compact&langs_count=7&theme=dark&title_color=red">
+    <img style="display: inline-block; width: 49%;" src="https://github-readme-stats.vercel.app/api?username=Dhyigo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=true">
+    <img style="display: inline-block; width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyigo&layout=compact&langs_count=7&theme=dark&title_color=red">
   </a>
 </div>
 <br>
