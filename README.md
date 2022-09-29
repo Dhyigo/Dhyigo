@@ -1,7 +1,7 @@
 ### Seja bem vindo(a)! :)
 
 
-- 🌱 Estudando Python, HTML5, as CSS e JavaScript.
+- 🌱 Estudando Python, HTML5, as CSS3 e JavaScript.
 
 <div style="display: flex; justify-content: space-between; ">
   <a href="https://github.com/Dhyigo">
