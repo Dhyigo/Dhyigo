@@ -1,7 +1,5 @@
-### Seja bem vindo(a)! :)
 
-
- Hello world
+### Hello world
 
 Fullstack JavaScript/TypeScript programmer passionate about this incredible world.
 
@@ -33,6 +31,7 @@ Fullstack JavaScript/TypeScript programmer passionate about this incredible worl
     <img align="center" alt="MYSQL-LOGO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="MONGODB-LOGO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="REACTJS-LOGO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="MUI-LOGO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
   </a>
 </div>
 
