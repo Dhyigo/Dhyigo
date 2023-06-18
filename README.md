@@ -1,11 +1,24 @@
 ### Seja bem vindo(a)! :)
 
 
-- 🌱 Estudando React.js, TypeScript, JavaScript, Express.js, HTML5 e as CSS3.
+ Hello world
 
+Fullstack JavaScript/TypeScript programmer passionate about this incredible world.
 
+   ☢<strong>Skills</strong>: React, Express, Node, JavaScript/TypeScript, MUI, Bootstrap, and... <br>
+   <br>
+   🧰<strong>Tools</strong>: Visual Studio Code, Git and GitHub.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/diego-silva-0a2042263/" alt="Linkedin" target="_blank" abbr="My linkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+</p>  
+<p>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dhyigo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=true">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyigo&layout=compact&langs_count=7&theme=dark&title_color=red">
+</p>
+
+![Snake animation](https://github.com/Dhyigo/Dhyigo/blob/output/github-contribution-grid-snake.svg)
 
 <div style="display: inline_block;">
   <a href="https://github.com/Dhyigo">
@@ -22,5 +35,4 @@
     <img align="center" alt="REACTJS-LOGO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </a>
 </div>
-  
-![Snake animation](https://github.com/Dhyigo/Dhyigo/blob/output/github-contribution-grid-snake.svg)
+
