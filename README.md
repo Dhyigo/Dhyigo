@@ -33,6 +33,7 @@ Fullstack JavaScript/TypeScript programmer passionate about this incredible worl
     <img align="center" alt="MONGODB-LOGO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="REACTJS-LOGO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="MUI-LOGO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
+     <img align="center" alt="styled-components-logo" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:318/1*7jRD5QhgARucFKvRHFxpOg.png">
   </a>
 </div>
 
